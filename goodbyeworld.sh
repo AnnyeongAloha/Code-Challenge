@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script: Ops 201 Class 02 Ops Challenge Solution 
+# Script: Ops 201 Class 03 Ops Challenge Solution 
 # Author: 
 # Date of latest revision:
 # Purpose: Create a script that prints the login history of users on this computer,

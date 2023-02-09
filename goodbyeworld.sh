@@ -8,6 +8,11 @@
 
 # Main
 
+
+print_loginhistory () {
+        cd /var/log
+}
+ print_loginhistory
 # End
 
  

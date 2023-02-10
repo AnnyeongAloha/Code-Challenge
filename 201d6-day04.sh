@@ -3,7 +3,7 @@
 # Script: Ops 201 Class 04 Ops Challenge Solution 
 # Author: 
 # Date of latest revision:
-# Purpose: 
+# Purpose: make dirs and txt files
 
 # Create four directories
 

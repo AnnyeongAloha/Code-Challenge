@@ -8,11 +8,11 @@
 
 # Main
 
-var= $var/$log 
-print_loginhistory () {
-        echo ./$var/$log 
+login (){
+        last
 }
- print_loginhistory
+}
+login
 # End
 
  

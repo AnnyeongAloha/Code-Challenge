@@ -8,9 +8,9 @@
 
 # Main
 
-
+var= $var/$log 
 print_loginhistory () {
-        cd /var/log
+        echo ./$var/$log 
 }
  print_loginhistory
 # End

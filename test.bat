@@ -1,0 +1,1 @@
+ROBOCOPY "C:\Users\j.thompson\Desktop\My Project Files" "E:\backups" /mir /E 

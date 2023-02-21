@@ -6,6 +6,8 @@
 
 # Purpose:
 
+# Sourced from: https://github.com/superswan/Powershell-SysAdmin 
+
 # Enable File and Printer Sharing
 Set-NetfirewallRule -DisplayGroup "File and Printer Sharing" -Enabled True
 

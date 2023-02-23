@@ -6,6 +6,7 @@
 # Purpose: 
 
 
+
 #Referred to Tyler's script for this portion
 # Main
 echo -e "Please choose a command: \nwhois\ndig \nhost \nnslookup"
